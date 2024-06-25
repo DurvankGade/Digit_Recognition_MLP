@@ -1,6 +1,6 @@
 <h3>Digit Recognition using Multi-Layered Perceptrons:</h3>
 <h4>Important Instructions: </h4>
-1.Please download the dataset from : https://drive.google.com/drive/folders/14MwV3YqlnFNtzR0vEcjZlL_cnr1wpOPc  and match the filepath in the jupyter notebook. <br>
+1.Please <b>download</b> the dataset from : https://drive.google.com/drive/folders/14MwV3YqlnFNtzR0vEcjZlL_cnr1wpOPc  and match the filepath in the jupyter notebook. The csv files should be stored in <b>Digit_Recognition_Project/Data</b> , where Digit_Recognition_Project folder contains the <b>Project.ipynb</b> file. <br>
 2.To view the output directly, use either Project.html or Project.pdf.<br>
 <h6>MLP:</h6>Multi Layered Perceptrons is a feedforward ANN(Artificial Neural Network) consisting of fully connected neurons with a nonlinear activation function and organized in at least three layers(One input layer, one hidden layer, one output layer).
 
